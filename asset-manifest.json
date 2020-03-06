@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/listWithReact/static/css/main.77a6dfc6.chunk.css",
+    "main.js": "/listWithReact/static/js/main.ff0fe3d0.chunk.js",
+    "main.js.map": "/listWithReact/static/js/main.ff0fe3d0.chunk.js.map",
+    "runtime-main.js": "/listWithReact/static/js/runtime-main.18dafe4b.js",
+    "runtime-main.js.map": "/listWithReact/static/js/runtime-main.18dafe4b.js.map",
+    "static/js/2.1c9a6958.chunk.js": "/listWithReact/static/js/2.1c9a6958.chunk.js",
+    "static/js/2.1c9a6958.chunk.js.map": "/listWithReact/static/js/2.1c9a6958.chunk.js.map",
+    "index.html": "/listWithReact/index.html",
+    "precache-manifest.58d890505a0d340ceb94686660574d89.js": "/listWithReact/precache-manifest.58d890505a0d340ceb94686660574d89.js",
+    "service-worker.js": "/listWithReact/service-worker.js",
+    "static/css/main.77a6dfc6.chunk.css.map": "/listWithReact/static/css/main.77a6dfc6.chunk.css.map",
+    "static/js/2.1c9a6958.chunk.js.LICENSE.txt": "/listWithReact/static/js/2.1c9a6958.chunk.js.LICENSE.txt",
+    "static/media/sunShape.svg": "/listWithReact/static/media/sunShape.d9c88e48.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.18dafe4b.js",
+    "static/js/2.1c9a6958.chunk.js",
+    "static/css/main.77a6dfc6.chunk.css",
+    "static/js/main.ff0fe3d0.chunk.js"
+  ]
+}
